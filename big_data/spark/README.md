@@ -15,7 +15,7 @@
 ### Writing applications
 
 #### SparkContext
-
+çaaaaaa
 SparkContext object represents a connection to the spark computing cluster. Every spark application needs to configure and intialize a SparkContext. A SparkConf class instance can be created and passed to configure SparkContext initialization.
 
 ````scala
